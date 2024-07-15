@@ -1,12 +1,10 @@
-<div style="position: relative; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/103f2b90-5a34-4b46-8f0a-9589a9ab56e9" alt="Banner" style="width: 100%;">
-  <div style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); color: black;">
-    <h1>Hello! I'm JINNY 👋</h1>
-    <p>🎓 B.S. in HUFS</p>
-    <p>🌐 Work Experience with Wellysis corp.</p>
-    <p>📩 020228jinny@gmail.com</p>
-  </div>
-</div>
+<img src="https://github.com/user-attachments/assets/adf940be-4730-41e8-8054-96974de1997a" alt="Jinny Kim Banner" style="width: 100%;">
+
+### Hello! I'm JINNY 👋
+
+- 🎓 B.S. in HUFS
+- 🌍 Work Experience with Wellysis corp.
+- 📧 020228jinny@gmail.com
 
 ---
 
