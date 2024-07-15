@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/a219a79c-47ed-4db9-8197-af2ede737ecb)
+![Header](![image](https://github.com/user-attachments/assets/adf940be-4730-41e8-8054-96974de1997a))
 
 ### Hello! I'm JINNY 👋
 
