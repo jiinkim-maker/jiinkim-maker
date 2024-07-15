@@ -1,6 +1,6 @@
 <div style="position: relative; text-align: center; color: white;">
   <img src="https://github.com/user-attachments/assets/adf940be-4730-41e8-8054-96974de1997a" alt="Banner" style="width: 100%;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-30%, -30%);">
     <h1 style="color: black;">Hello! I'm JINNY 👋</h1>
     <p style="color: black;">B.S. in HUFS</p>
     <p style="color: black;">Work Experience with Wellysis corp.</p>
