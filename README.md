@@ -24,7 +24,7 @@ I am interested in developing robust inference models/systems and addressing com
 </table>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{Jinny Kim}/{jiinkim-maker})
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jiinkim-maker/jiinkim-maker)
 
 
 
