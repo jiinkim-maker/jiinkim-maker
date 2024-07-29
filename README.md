@@ -7,15 +7,10 @@
 
 
 
-#### 🎓 B.S. in HUFS
-#### 🌍 Work Experience with Wellysis corp.
-#### 📧 020228jinny@gmail.com
+##### 🎓 B.S. in HUFS
+##### 🌍 Work Experience with Wellysis corp.
+##### 📧 020228jinny@gmail.com
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <span style="margin: 0 10px;">🎓 B.S. in HUFS</span>
-  <span style="margin: 0 10px;">🌍 Work Experience with Wellysis corp.</span>
-  <span style="margin: 0 10px;">📧 <a href="mailto:020228jinny@gmail.com">020228jinny@gmail.com</a></span>
-</div>
 
 
 ---
@@ -38,7 +33,6 @@ I am interested in developing robust inference models/systems and addressing com
 
 ## 📊 Main Tech Stack
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -47,12 +41,9 @@ I am interested in developing robust inference models/systems and addressing com
 ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-</div>
-
 
 
 ---
-
 
 
 ## 🌐 Link
@@ -67,7 +58,6 @@ I am interested in developing robust inference models/systems and addressing com
 
 더 알고 싶으신가요? 여기에 제 [CV_Jinny_kim_.pdf](https://github.com/user-attachments/files/16414769/CV_Jinny_kim_.pdf)가 있습니다.
 
-</div>
 
 
 
