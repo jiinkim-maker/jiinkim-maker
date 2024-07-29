@@ -11,7 +11,7 @@
 🌍 Work Experience with Wellysis corp.
 📧 020228jinny@gmail.com
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <span>🎓 B.S. in HUFS</span>
   <span>🌍 Work Experience with Wellysis corp.</span>
   <span>📧 <a href="mailto:020228jinny@gmail.com">020228jinny@gmail.com</a></span>
