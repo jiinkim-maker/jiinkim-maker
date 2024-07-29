@@ -11,6 +11,7 @@
 🌍 Work Experience with Wellysis corp.
 📧 020228jinny@gmail.com
 
+🎓 B.S. in HUFS 🌍 Work Experience with Wellysis corp. 📧 [020228jinny@gmail.com](mailto:020228jinny@gmail.com)
 
 
 ---
@@ -22,10 +23,10 @@ Computer Vision (Object Detection, Segmentation, Pattern/Feature recognition)
 Image & Video Processing
 Autonomous Driving
 
+**Computer Vision (Object Detection, Segmentation, Pattern/Feature Recognition) | Image & Video Processing | Autonomous Driving**
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPOSITORY_NAME})
-
-
 
 
 
@@ -39,20 +40,25 @@ Autonomous Driving
 
 
 
-
 ---
 
 
 
-
 ## 🌐 Link
-> [Notion](https://plump-krill-86e.notion.site/new-Portfolio-d089248576354076b87248dbcf0e22c0?pvs=4)
+
+[Notion](https://plump-krill-86e.notion.site/new-Portfolio-d089248576354076b87248dbcf0e22c0?pvs=4)
 
 
-
+---
 
 
 ## 👩🏻‍🚀 CV
 
-더 알고 싶으신가요? 여기에 제 [이력서](#)가 있습니다.
+더 알고 싶으신가요? 여기에 제 [이력서](./resume.pdf)가 있습니다.
+
+</div>
+
+
+
+
 
