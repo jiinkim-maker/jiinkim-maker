@@ -19,10 +19,6 @@
 
 I am interested in developing robust inference models/systems and addressing computer vision challenges by leveraging diverse data sources.
 
-Computer Vision (Object Detection, Segmentation, Pattern/Feature recognition)
-Image & Video Processing
-Autonomous Driving
-
 <table>
   <tr>
     <td align="center"><b>Computer Vision</b><br>(Object Detection, Segmentation, Pattern/Feature Recognition)</td>
