@@ -7,9 +7,9 @@
 
 
 
-🎓 B.S. in HUFS
-🌍 Work Experience with Wellysis corp.
-📧 020228jinny@gmail.com
+### 🎓 B.S. in HUFS
+### 🌍 Work Experience with Wellysis corp.
+### 📧 020228jinny@gmail.com
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <span style="margin: 0 10px;">🎓 B.S. in HUFS</span>
