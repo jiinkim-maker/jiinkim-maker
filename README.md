@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/adf940be-4730-41e8-8054-96974de1997a" alt="Jinny Kim Banner" style="width: 100%;">
-
-
 
 ## Hello! I'm JINNY 👋
 
