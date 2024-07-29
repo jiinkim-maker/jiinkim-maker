@@ -14,7 +14,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <span>🎓 B.S. in HUFS</span>
   <span>🌍 Work Experience with Wellysis corp.</span>
-  <span>📧 [020228jinny@gmail.com](mailto:020228jinny@gmail.com)</span>
+  <span>📧 <a href="mailto:020228jinny@gmail.com">020228jinny@gmail.com</a></span>
 </div>
 
 
