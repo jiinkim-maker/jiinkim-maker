@@ -28,7 +28,7 @@ I am interested in developing robust inference models/systems and addressing com
 </table>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPOSITORY_NAME})
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{YOUR_GITHUB_USERNAME}/{jiinkim-maker})
 
 
 
@@ -56,10 +56,9 @@ I am interested in developing robust inference models/systems and addressing com
 
 ## 👩🏻‍🚀 CV
 
-더 알고 싶으신가요? 여기에 제 [이력서](./resume.pdf)가 있습니다.
+더 알고 싶으신가요? 여기에 제 [CV_Jinny_kim_.pdf](https://github.com/user-attachments/files/16414769/CV_Jinny_kim_.pdf)가 있습니다.
 
 </div>
-
 
 
 
