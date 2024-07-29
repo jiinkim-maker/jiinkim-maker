@@ -23,7 +23,13 @@ Computer Vision (Object Detection, Segmentation, Pattern/Feature recognition)
 Image & Video Processing
 Autonomous Driving
 
-**Computer Vision (Object Detection, Segmentation, Pattern/Feature Recognition) | Image & Video Processing | Autonomous Driving**
+<table>
+  <tr>
+    <td align="center"><b>Computer Vision</b><br>(Object Detection, Segmentation, Pattern/Feature Recognition)</td>
+    <td align="center"><b>Image & Video Processing</b></td>
+    <td align="center"><b>Autonomous Driving</b></td>
+  </tr>
+</table>
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPOSITORY_NAME})
