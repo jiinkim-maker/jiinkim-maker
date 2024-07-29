@@ -3,17 +3,17 @@
 
 ### Hello! I'm JINNY 👋
 
-- 🎓 B.S. in HUFS
-- 🌍 Work Experience with Wellysis corp.
-- 📧 020228jinny@gmail.com
+🎓 B.S. in HUFS
+🌍 Work Experience with Wellysis corp.
+📧 020228jinny@gmail.com
 
 ---
 
 I am interested in developing robust inference models/systems and addressing computer vision challenges by leveraging diverse data sources.
 
-- Computer Vision (Object Detection, Segmentation, Pattern/Feature recognition)
-- Image & Video Processing
-- Autonomous Driving
+> Computer Vision (Object Detection, Segmentation, Pattern/Feature recognition)
+> Image & Video Processing
+> Autonomous Driving
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPOSITORY_NAME})
 
@@ -30,7 +30,7 @@ I am interested in developing robust inference models/systems and addressing com
 ---
 
 ### 🌐 Link
-- [Notion](https://plump-krill-86e.notion.site/new-Portfolio-d089248576354076b87248dbcf0e22c0?pvs=4)
+> [Notion](https://plump-krill-86e.notion.site/new-Portfolio-d089248576354076b87248dbcf0e22c0?pvs=4)
 
 
 
