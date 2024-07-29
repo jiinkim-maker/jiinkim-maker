@@ -56,11 +56,9 @@ I am interested in developing robust inference models/systems and addressing com
 더 알고 싶으신가요? 여기에 제 [CV_Jinny_kim_.pdf](https://github.com/user-attachments/files/16414769/CV_Jinny_kim_.pdf)가 있습니다.
 
 <div style="margin-top: 20px;">
-  더 알고 싶으신가요? 여기에 제 <a href="https://github.com/jiinkim-maker/jiinkim-maker/raw/main/CV_Jinny_kim_.pdf">CV_Jinny_kim_.pdf</a>가 있습니다.
+  더 알고 싶으신가요? 여기에 제 <a href="https://github.com/jiinkim-maker/jiinkim-maker/blob/main/CV_Jinny_kim_.pdf">CV_Jinny_kim_.pdf</a>가 있습니다.
 </div>
 
 </div>
-
-
 
 
