@@ -55,7 +55,7 @@ I am interested in developing robust inference models/systems and addressing com
 ## 👩🏻‍🚀 CV
 
 <div style="margin-top: 20px;">
-  Do you want to know more? Here is my <a href="https://github.com/jiinkim-maker/jiinkim-maker/blob/main/CV_Jinny_kim_.pdf">CV_Jinny_kim_.pdf</a>.
+  Do you want to know more? Here is my <a href="">CV_Jinny_kim_.pdf</a>.
 </div>
 
 </div>
