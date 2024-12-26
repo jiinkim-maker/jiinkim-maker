@@ -46,7 +46,7 @@ I am interested in developing robust inference models/systems and addressing com
 
 ## 🌐 Link
 
-[Notion](https://plump-krill-86e.notion.site/new-Portfolio-d089248576354076b87248dbcf0e22c0?pvs=4)
+#[Notion](https://plump-krill-86e.notion.site/new-Portfolio-d089248576354076b87248dbcf0e22c0?pvs=4)
 
 
 ---
@@ -55,7 +55,7 @@ I am interested in developing robust inference models/systems and addressing com
 ## 👩🏻‍🚀 CV
 
 <div style="margin-top: 20px;">
-  Do you want to know more? Here is my <a href="https://github.com/jiinkim-maker/jiinkim-maker/blob/main/CV_Jinny_kim_.pdf">CV_Jinny_kim_.pdf</a>.
+  #Do you want to know more? Here is my <a href="https://github.com/jiinkim-maker/jiinkim-maker/blob/main/CV_Jinny_kim_.pdf">CV_Jinny_kim_.pdf</a>.
 </div>
 
 </div>
