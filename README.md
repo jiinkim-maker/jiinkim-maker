@@ -5,6 +5,7 @@
 
 
 ##### 🎓 B.S. in HUFS
+##### 🌐 Intern at the AI Research Lab, Seoul National University.
 ##### 🌍 Work Experience with Wellysis corp.
 ##### 📧 020228jinny@gmail.com
 
@@ -17,9 +18,9 @@ I am interested in developing robust inference models/systems and addressing com
 
 <table>
   <tr>
-    <td align="center"><b>Computer Vision</b><br>(Object Detection, Segmentation, Pattern/Feature Recognition)</td>
-    <td align="center"><b>Image & Video Processing</b></td>
-    <td align="center"><b>Autonomous Driving</b></td>
+    <td align="center"><b>Computer Vision</b><br>(Object Detection, Pattern/Feature Recognition)</td>
+    <td align="center"><b>HCI</b></td>
+    <td align="center"><b>Data Integrity</b></td>
   </tr>
 </table>
 
