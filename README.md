@@ -6,14 +6,13 @@
 
 ---
 
-
-I am interested in developing robust inference models/systems and addressing computer vision challenges by leveraging diverse data sources.
+I am interested in developing robust data-driven inference models and building AI/ML systems for real-world applications, with a focus on automation, user-centric design(HCI) and intelligent system design that enhances everyday experiences.
 
 <table>
   <tr>
-    <td align="center"><b>Computer Vision</b><br>(Object Detection, Pattern/Feature Recognition)</td>
-    <td align="center"><b>HCI</b></td>
-    <td align="center"><b>Data Integrity</b></td>
+    <td align="center"><b>data-driven inference</b><br>(HCI,BI, Statistical Modeling)</td>
+    <td align="center"><b>ML/AI Modeling</b></td>
+    <td align="center"><b>Automation</b></td>
   </tr>
 </table>
 
