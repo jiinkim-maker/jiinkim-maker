@@ -69,9 +69,10 @@ I am interested in developing robust inference models/systems and addressing com
 ---
 
 
-## 🌐 Link (My CV is available at this link!)
+## 🌐 Link 
 
-[Notion](https://plump-krill-86e.notion.site/Portfolio-2924b10395a84814858838f6215ae6bd?pvs=4)
+My CV is available at this link!
+[Link](https://plump-krill-86e.notion.site/Portfolio-2924b10395a84814858838f6215ae6bd?pvs=4)
 
 
 ---
