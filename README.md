@@ -2,7 +2,7 @@
 
 ##### 🎓 B.S. in HUFS
 ##### 🌍 Work Experience with Wellysis corp.
-Data Analysis | Data Preprocessing for AI Model | Diagnostic Project Management | Data Integrity
+<sub>_Data Analysis | Data Preprocessing for AI Model | Diagnostic Project Management | Data Integrity_</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
