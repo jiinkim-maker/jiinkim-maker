@@ -21,8 +21,17 @@ I am interested in developing robust inference models/systems and addressing com
   </tr>
 </table>
 
-- **Email:** 020228jinny@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jiin-kim-1928b331a/)  
+<p align="left">
+  <a href="https://plump-krill-86e.notion.site/Portfolio-2924b10395a84814858838f6215ae6bd?pvs=4">
+    <img src="https://img.shields.io/badge/Blog-%23FF4088?style=for-the-badge&logo=heart&logoColor=white"/>
+  </a>
+  <a href="mailto:020228jinny@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jiin-kim-1928b331a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jiinkim-maker/jiinkim-maker)
 
