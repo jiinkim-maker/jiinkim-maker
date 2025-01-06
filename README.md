@@ -1,11 +1,8 @@
 ## Hello! I'm JINNY 👋
 
-
-
 ##### 🎓 B.S. in HUFS
 ##### 🌍 Work Experience with Wellysis corp.
 ##### 📧 020228jinny@gmail.com
-
 
 ---
 
