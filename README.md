@@ -5,7 +5,6 @@
 
 
 ##### 🎓 B.S. in HUFS
-##### 🌐 Intern at the AI Research Lab, Seoul National University.
 ##### 🌍 Work Experience with Wellysis corp.
 ##### 📧 020228jinny@gmail.com
 
