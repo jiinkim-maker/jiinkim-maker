@@ -1,8 +1,8 @@
 ## Hello! I'm JINNY 👋
 
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
-##### 🌍 Work Experience with Wellysis corp.
-<sub>_Data Analysis | Data Preprocessing for AI Model | Diagnostic Project Management | Data Integrity_</sub>
+##### 🌍 Work Experience with Cheil & Wellysis corp.
+<sub>_Data Analysis | QA | Data Integrity_</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
