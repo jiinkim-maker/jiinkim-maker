@@ -2,7 +2,7 @@
 
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
 ##### 🌍 Work Experience with Cheil & Wellysis corp.
-<sub>_Data Analysis | QA | AI System</sub>
+<sub/>Data Analysis | QA | AI System</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
