@@ -2,7 +2,7 @@
 
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
 ##### 🌍 Work Experience with Cheil & Wellysis corp.
-<sub>_Data Analysis | QA | Data Integrity_</sub>
+<sub>_Data Analysis | QA | AI System</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
@@ -11,7 +11,7 @@ I am passionate about developing robust data-driven inference models and buildin
 
 <table>
   <tr>
-    <td align="center"><b>data-driven inference</b><br>(HCI,BI, Statistical Modeling)</td>
+    <td align="center"><b>Data-driven services</b><br>(including HCI, Statistical Modeling)</td>
     <td align="center"><b>ML/AI Modeling</b></td>
     <td align="center"><b>Automation</b></td>
   </tr>
