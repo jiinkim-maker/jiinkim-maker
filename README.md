@@ -7,7 +7,7 @@
 
 ---
 
-I am passionate about developing robust data-driven inference models and building AI/ML systems for real-world applications, focusing on automation, user-centric design (HCI), and intelligent system design to enhance everyday experiences.
+I am passionate about developing data-driven services through HCI and statistical modeling, creating high-performance ML/AI models, and building automation systems that enhance real-world user experiences.
 
 <table>
   <tr>
