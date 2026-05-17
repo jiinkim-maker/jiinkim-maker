@@ -2,16 +2,16 @@
 
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
 ##### 🌍 Work Experience with Cheil & Wellysis corp.
-<sub/>Data Analysis | QA | AI System</sub>
+<sub/>Data Analysis | QA | AI System | Automation</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
 
-I am passionate about developing data-driven services through HCI and statistical modeling, creating high-performance ML/AI models, and building automation systems that enhance real-world user experiences.
+I am passionate about developing data-driven services, creating high-performance ML/AI models, and building automation systems that enhance real-world user experiences.
 
 <table>
   <tr>
-    <td align="center"><b>Data-driven services</b><br>(including HCI, Statistical Modeling)</td>
+    <td align="center"><b>Data-driven services</b></td>
     <td align="center"><b>ML/AI Modeling</b></td>
     <td align="center"><b>Automation</b></td>
   </tr>
@@ -73,8 +73,4 @@ I am passionate about developing data-driven services through HCI and statistica
 My CV is available at this link!
 [Link](https://plump-krill-86e.notion.site/Portfolio-2924b10395a84814858838f6215ae6bd?pvs=4)
 
-
----
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jiinkim-maker/jiinkim-maker)
 
