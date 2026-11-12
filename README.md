@@ -20,9 +20,6 @@ I am passionate about developing data-driven services, creating high-performance
 </table>
 
 <p align="left">
-  <a href="https://plump-krill-86e.notion.site/Portfolio-2924b10395a84814858838f6215ae6bd?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
   <a href="mailto:020228jinny@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
