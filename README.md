@@ -2,6 +2,7 @@
 
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
 ##### 🌍 Work Experience with Cheil & Wellysis corp.
+##### 기업 프로젝트 코드 자료는 보안상 Repo로 남길 수 없으며, 아래 포트폴리오 사이트를 활용해주세요.
 <sub/>Data Analysis | QA | AI System | Automation</sub>
 ##### 📧 020228jinny@gmail.com
 
