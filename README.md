@@ -3,7 +3,7 @@
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
 ##### 🌍 Work Experience with Cheil & Wellysis corp.
 ##### 기업 프로젝트 코드 자료는 보안상 Repo로 남길 수 없으며, 아래 포트폴리오 사이트를 활용해주세요.
-<sub/>Data Analysis | QA | AI System | Automation</sub>
+##### Data Analysis | QA | AI System | Automation</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
@@ -72,6 +72,6 @@ I am passionate about developing data-driven services, creating high-performance
 ## 🌐 Link 
 
 My CV is available at this link!
-[Link](https://plump-krill-86e.notion.site/Portfolio-2924b10395a84814858838f6215ae6bd?pvs=4)
+[Link](https://jiinkim-maker.github.io/portfolio/portfolio-v1/v1/)
 
 
