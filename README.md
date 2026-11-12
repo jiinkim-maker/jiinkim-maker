@@ -3,8 +3,8 @@
 ##### 🎓 B.S. in Hankuk University of Foriegn Studies
 ##### 🌍 Work Experience with Cheil & Wellysis corp.
 ##### 기업 프로젝트 코드 자료는 보안상 Repo로 남길 수 없으며, 아래 포트폴리오 사이트를 활용해주세요.
-[포트폴리오 사이트 바로가](https://jiinkim-maker.github.io/portfolio/portfolio-v1/v1/)
-##### Data Analysis | QA | AI System | Automation</sub>
+[포트폴리오 사이트 바로가기](https://jiinkim-maker.github.io/portfolio/portfolio-v1/v1/)
+##### Data Analysis | QA | AX/DX | Automation</sub>
 ##### 📧 020228jinny@gmail.com
 
 ---
